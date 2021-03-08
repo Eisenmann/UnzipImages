@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2012\Projects\ImageFabric\ImageFabric\bin\Debug\ImageFabric.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.g.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\bin\Debug\ImageFabric.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\bin\Debug\ImageFabric.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ImageFabric\ImageFabric\bin\Debug\ImageFabric.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\ImageFabric\ImageFabric\obj\Debug\ImageFabric.pdb
+C:\Users\user\Source\Repos\Eisenmann\UnzipImages\ImageFabric\bin\Debug\ImageFabric.exe.config
+C:\Users\user\Source\Repos\Eisenmann\UnzipImages\ImageFabric\obj\Debug\ImageFabric.exe
+C:\Users\user\Source\Repos\Eisenmann\UnzipImages\ImageFabric\obj\Debug\ImageFabric.pdb

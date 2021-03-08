@@ -1,0 +1,18 @@
+﻿<Window x:Class="ImageFabric.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="362,234,0,0" VerticalAlignment="Top" Width="76" Height="36" Click="btnStart_Click"/>
+        <TextBox x:Name="txtBoxInputFolder" HorizontalAlignment="Left" Height="23" Margin="37,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Text="C:\test\1"/>
+        <Button x:Name="btnBrowseInputFolder" Content="Browse" HorizontalAlignment="Left" Margin="390,44,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnBrowseInputFolder_Click"/>
+        <TextBox x:Name="txtBoxOutputFolder" HorizontalAlignment="Left" Height="23" Margin="37,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Text="C:\test\2"/>
+        <TextBox x:Name="txtBox7ZipPath" HorizontalAlignment="Left" Height="23" Margin="37,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" Text="C:\Program Files\7-Zip\7z.exe"/>
+        <Button x:Name="btnBrowseOutputFolder" Content="Browse" HorizontalAlignment="Left" Margin="390,100,0,0" VerticalAlignment="Top" Width="75" Click="btnBrowseOutputFolder_Click"/>
+        <Button x:Name="btnBrowse7ZipFile" Content="Browse" HorizontalAlignment="Left" Margin="390,181,0,0" VerticalAlignment="Top" Width="75" Click="btnBrowse7ZipFile_Click"/>
+        <Label x:Name="lblInput" Content="Input folder" HorizontalAlignment="Left" Margin="37,16,0,0" VerticalAlignment="Top" Width="195"/>
+        <Label x:Name="lblOutput" Content="Output folder" HorizontalAlignment="Left" Margin="37,72,0,0" VerticalAlignment="Top" Width="195"/>
+        <Label x:Name="lbl7zip" Content="7-Zip folder" HorizontalAlignment="Left" Margin="37,150,0,0" VerticalAlignment="Top" Width="216"/>
+
+    </Grid>
+</Window>
